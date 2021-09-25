@@ -32,7 +32,7 @@
             <v-list-item-content>
               <v-list-item-title>Sub region</v-list-item-title>
             </v-list-item-content>
-            <v-list-item-action >
+            <v-list-item-action>
               <span class="answer"> {{ data.adminregion.value }} </span>
             </v-list-item-action>
           </v-list-item>
@@ -60,24 +60,6 @@
             </v-list-item-content>
             <v-list-item-action>
               <span class="answer">{{ data.lendingType.value }} </span>
-            </v-list-item-action>
-          </v-list-item>
-
-          <v-list-item>
-            <v-list-item-content>
-              <v-list-item-title>Area</v-list-item-title>
-            </v-list-item-content>
-            <v-list-item-action>
-              <span class="answer">France </span>
-            </v-list-item-action>
-          </v-list-item>
-
-          <v-list-item>
-            <v-list-item-content>
-              <v-list-item-title>Time zone</v-list-item-title>
-            </v-list-item-content>
-            <v-list-item-action>
-              <span class="answer">France </span>
             </v-list-item-action>
           </v-list-item>
         </v-list-item-group>
